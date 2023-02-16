@@ -1,0 +1,8 @@
+# server setting
+server:
+  port: 8081
+
+# log setting - 디버그 로그가 필요할 때 사용할 것
+#logging:
+#  level:
+#    root: debug
